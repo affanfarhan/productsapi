@@ -1,0 +1,107 @@
+[
+    {
+        "product": 100001,
+        "title": "Pair of blue lace up sneakers",
+        "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=400",
+        "price": "599",
+        "category": "shoes"
+    },
+    {
+        "product": 100002,
+        "title": "Pair of blue grey and red shoes",
+        "image": "https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "699",
+        "category": "shoes"
+    },
+    {
+        "product": 100003,
+        "title": "Pair of vans sneakers",
+        "image": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "899",
+        "category": "shoes"
+    },
+    {
+        "product": 100004,
+        "title": "Pair of black lace up sneakers",
+        "image": "https://images.pexels.com/photos/1478442/pexels-photo-1478442.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "399",
+        "category": "shoes"
+    },
+    {
+        "product": 100005,
+        "title": "black leather shoes",
+        "image": "https://images.pexels.com/photos/292998/pexels-photo-292998.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "899",
+        "category": "shoes"
+    },
+    {
+        "product": 100006,
+        "title": "black watche",
+        "image": "https://images.pexels.com/photos/190819/pexels-photo-190819.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "869",
+        "category": "watches"
+    },
+    {
+        "product": 100007,
+        "title": "black leather watch",
+        "image": "https://images.pexels.com/photos/1697218/pexels-photo-1697218.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "799",
+        "category": "watches"
+    },
+    {
+        "product": 100008,
+        "title": "analog watch",
+        "image": "https://images.pexels.com/photos/236915/pexels-photo-236915.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "599",
+        "category": "watches"
+    },
+    {
+        "product": 100009,
+        "title": "brown analog watch",
+        "image": "https://images.pexels.com/photos/1034063/pexels-photo-1034063.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "999",
+        "category": "watches"
+    },
+    {
+        "product": 100010,
+        "title": "black citizen analog watch",
+        "image": "https://images.pexels.com/photos/592815/pexels-photo-592815.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "499",
+        "category": "watches"
+    },
+    {
+        "product": 100011,
+        "title": "Shot of a clear phone",
+        "image": "https://images.pexels.com/photos/7360460/pexels-photo-7360460.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "199",
+        "category": "Mobile Case"
+    },
+    {
+        "product": 100012,
+        "title": "Iphone11 pro max case",
+        "image": "https://images.pexels.com/photos/27836675/pexels-photo-27836675/free-photo-of-iphone-11-pro-max-case.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "499",
+        "category": "Mobile cases"
+    },
+    {
+        "product": 100013,
+        "title": "Iphone11 pro max case",
+        "image": "https://images.pexels.com/photos/27836561/pexels-photo-27836561/free-photo-of-a-group-of-colorful-phone-cases-on-a-pink-background.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "599",
+        "category": "Mobile Case"
+    },
+    {
+        "product": 100014,
+        "title": "Iphone11 pro max case",
+        "image": "https://images.pexels.com/photos/10029867/pexels-photo-10029867.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "price": "699",
+        "category": "Mobile case"
+    },
+    {
+        "product": 100015,
+        "title": "Iphone11 pro max case",
+        "image": "https://media.istockphoto.com/id/1392299015/photo/hands-holding-a-smartphone-in-a-case.jpg?b=1&s=612x612&w=0&k=20&c=3_gPMWHcqCSusXtOpK_25m08WwmBHQqbpLz7GlgbwWg=",
+        "price": "799",
+        "category": "Mobile case"
+    }
+]
